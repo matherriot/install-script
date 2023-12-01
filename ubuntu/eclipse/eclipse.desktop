@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Eclipse IDE
+Type=Application
+Exec=/opt/eclipse/eclipse
+Terminal=false
+Icon=/opt/eclipse/icon.xpm
+Comment=Environement de développement intégré
+NoDisplay=false
+Categories=Development;IDE;
+Name[en]=Eclipse
+Name[en_US]=Eclipse
